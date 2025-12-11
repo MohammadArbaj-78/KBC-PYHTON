@@ -3,7 +3,7 @@
 
 ✅ 2) **KBC Game — README**
 
-```md
+
 # 🎮 KBC (Kaun Banega Crorepati) Game — Python
 
 A simple quiz-based game inspired by **KBC TV show**.  
