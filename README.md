@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ 2) **KBC Game — README**
+✅ 2) **KBC Game — README**
 
 ```md
 # 🎮 KBC (Kaun Banega Crorepati) Game — Python
@@ -11,18 +11,18 @@ The player answers multiple-choice questions to win virtual money.
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 - Multiple-choice questions  
 - Score system  
 - Beginner-friendly Python logic
 
 ---
 
-## 📌 Requirements
+# 📌 Requirements
 - Python 3.x
 
 ---
 
-## ▶️ How to Run
+# ▶️ How to Run
 
 python KBC.py
